@@ -1,0 +1,39 @@
+.img {
+    position: relative;
+    width: 100%;
+}
+
+html {
+    background: #77c4d3;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+header {
+    padding: 0.5em;
+    margin: 1%;
+    background: #daede2;
+    text-align: center;
+}
+
+section {
+    position: relative;
+    background: #daede2;
+    padding: 1.5em;
+    margin: 1%;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+section p {
+    padding: 0.5em;
+}
+
+#summary {
+    font-size: 1.2em;
+}
